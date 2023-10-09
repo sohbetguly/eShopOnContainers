@@ -1,0 +1,22 @@
+.product-card__thumb-img {
+  transition: 0.1s all ease;
+}
+.product-card__thumb-img:active {
+  transform: scale(0.9);
+}
+
+.product-details__table > div:nth-child(odd) {
+  background: white;
+}
+
+.product-details__table > div:nth-child(even) {
+  background: rgb(244, 244, 244);
+}
+
+.product-details__extra-button {
+  padding: 1px 0 !important;
+}
+
+.image-swiper-button-next {
+  background-color: red;
+}

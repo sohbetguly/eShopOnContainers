@@ -1,0 +1,10 @@
+.search-products__lists {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.search-products__lists li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

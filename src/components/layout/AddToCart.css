@@ -1,0 +1,19 @@
+@import url('../../App.css');
+
+.add-to-cart__container {
+  max-width: 100px;
+  border: 1px solid var(--main-color);
+  border-radius: 1rem;
+  /* line-height: 0.5; */
+  max-height: 35px;
+  align-items: center;
+  border-radius: 0.7rem;
+  min-width: 110px;
+  overflow: hidden;
+}
+.add-to-cart__container > button {
+  border: none;
+  color: white;
+  padding: 0.5rem;
+  width: 30px;
+}

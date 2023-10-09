@@ -1,0 +1,11 @@
+.star-rating__stars svg {
+  /* background-image: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0)
+  ); */
+  background-image: linear-gradient(to right, #ff0000, #00ff00);
+  background-color: #ff0000;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
