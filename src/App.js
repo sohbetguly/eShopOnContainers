@@ -7,7 +7,6 @@ import Nav from './components/navbar/Nav';
 import { useSelector } from 'react-redux';
 
 function App() {
-  
   const isActive = useSelector((state) => state.cart.isModalActive);
 
   return (
